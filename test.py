@@ -3,3 +3,4 @@ for i in range(5):
     print(i)
     count+=i
 print("Sum total of numbers: ", count)
+print("total : ",count)
